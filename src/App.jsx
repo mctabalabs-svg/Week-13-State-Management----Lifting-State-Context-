@@ -8,8 +8,6 @@ export default function App() {
 
   return (
     <div className={theme}>
-      <h1>Temperature Converter</h1>
-
       <ThemeButton />
       <ThemeDisplay />
       <TemperaturePage />
